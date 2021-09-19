@@ -2,4 +2,4 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-# To see the output [CLICK HERE](Coursera-HTML-CSS-and-Javascript-for-Web-Developers/tree/main/Module%203)
+# To see the output [CLICK HERE](https://fahimmistry.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/tree/main/Module%203)
